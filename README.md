@@ -43,7 +43,6 @@ public void onMessage(String message, Session session) {
         }
     }
 }
-
 ```
 
 ### **3. Frontend (chat.jsp)**
